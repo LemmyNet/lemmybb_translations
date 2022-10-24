@@ -1,3 +1,13 @@
 {
-  "register": "Register"
+  "register": "Register",
+  "login": "Login",
+  "search": "Search",
+  "user_control_panel": "User Control Panel",
+  "user_profile": "Profile",
+  "logout": "Logout",
+  "notifications": "Notifications",
+  "notifications_mark_all_as_read": "Mark all as read",
+  "notifications_none": "You have no notifications",
+  "current_time": "It is currently {}",
+  "private_messages": "Private messages"
 }
