@@ -1,1 +1,13 @@
-{}
+{
+    "login": "Kirjaudu",
+    "search": "Hae",
+    "user_profile": "Profiili",
+    "logout": "Kirjaudu ulos",
+    "notifications": "Ilmoitukset",
+    "notifications_mark_all_as_read": "Merkitse kaikki luetuiksi",
+    "notifications_none": "Ei ilmoituksia",
+    "private_messages": "Yksityisviestit",
+    "register": "Rekisteröidy",
+    "user_control_panel": "Käyttäjän ohjauspaneeli",
+    "current_time": "Se on nyt {}"
+}
