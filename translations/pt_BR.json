@@ -97,5 +97,7 @@
     "search_no_matches": "Nenhum resultado correspondente encontrado.",
     "username_length_hint": "Deve ter entre 3 a 20 caracteres.",
     "captcha_hint": "Para prevenir registros automáticos, a plataforma requer que você insira um código de confirmação. O código é mostrado na imagem que deve aparecer abaixo. Se você não pode ler o código por qualquer motivo, entre em contato com a Administração da Plataforma, por favor.",
-    "compose_private_message": "Escreva a mensagem"
+    "compose_private_message": "Escreva a mensagem",
+    "legal": "Legal",
+    "captcha_hint_2": "Digite o código exatamente como aparece. Não é considerado a diferença entre letras maiúsculas e minúsculas."
 }
