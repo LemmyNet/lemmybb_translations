@@ -34,5 +34,22 @@
     "header_topics_count": "Aiheet",
     "header_replies_count": "Vastaukset",
     "optional": "Valinnainen",
-    "required": "Vaadittu"
+    "required": "Vaadittu",
+    "subject": "Aihe:",
+    "board_index": "Keskustelupalstan etusivu",
+    "header_last_reply": "Viimeisin vastaus",
+    "view_latest_reply": "Näytä uusin vastaus",
+    "post_reply": "Lähetä vastaus",
+    "report_post_title": "Ilmianna tämä viesti",
+    "report_post_info": "Käytä tätä lomaketta ilmiantaaksesi viesti instanssin moderaattoreille ja keskustelupalstan ylläpitäjille. Ilmiantamista tulisi yleensä käyttää vain jos viesti rikkoo instanssin sääntöjä.",
+    "report_post_reason": "Syy:",
+    "form_submit": "Lähetä",
+    "form_cancel": "Peruuta",
+    "post_topic": "Uusi viestiketju",
+    "register_info": "Sinun pitää rekisteröityä jotta voit kirjautua. Rekisteröityminen vie vain hetken, mutta antaa sinulle lisää mahdollisuuksia toimia.",
+    "username": "Käyttäjänimi:",
+    "password": "Salasana:",
+    "user_statistics": "Käyttäjätilastot",
+    "total_posts": "Viestien kokonaismäärä:",
+    "total_comments": "Kommenttien kokonaismäärä:"
 }
