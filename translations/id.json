@@ -86,5 +86,11 @@
     "registration_admin_approval": "Pendaftaran berhasil, menunggu persetujuan admin",
     "browser_default_language": "Peramban baku",
     "settings_updated": "Pengaturan berhasil diperbarui",
-    "report_created": "Laporan dibuat"
+    "report_created": "Laporan dibuat",
+    "joined": "Bergabung:",
+    "application_answer": "Jawaban aplikasi:",
+    "captcha_hint": "Untuk mencegah pendaftaran otomatis, forum ini memerlukan Anda memasukkan kode konfirmasi. Kode ditampilkan di gambar yang Anda lihat di bawah ini. Jika Anda ada kelainan visual atau tidak bisa membaca kode ini, silakan hubungi admin forum.",
+    "captcha_hint_2": "Ketikkan kode sama persis dengan apa yang muncul. Semua huruf sensitif kapital.",
+    "user_control_panel": "Bilah Kontrol Pengguna",
+    "legal": "Legal"
 }
