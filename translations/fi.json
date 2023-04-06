@@ -51,5 +51,14 @@
     "password": "Salasana:",
     "user_statistics": "Käyttäjätilastot",
     "total_posts": "Viestien kokonaismäärä:",
-    "total_comments": "Kommenttien kokonaismäärä:"
+    "total_comments": "Kommenttien kokonaismäärä:",
+    "contact_user": "Yhteystiedot {}",
+    "pm": "YV:",
+    "view_user_profile_title": "Katsellaan profiilia - {}",
+    "forum_title": "Foorumi:",
+    "view_community_list": "Katsotaan foorumilistaa",
+    "send_private_message": "Lähetä yksityinen viesti",
+    "topic_title": "Aihe:",
+    "search_match_count": "{} täsmää haussa seuraaviin: ",
+    "searched_query": "Haettiin lausekkeella:"
 }
