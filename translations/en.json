@@ -85,6 +85,7 @@
     "site_description": "Description:",
     "refresh_confirmation_code": "Refresh confirmation code",
     "forum_subscribe": "Subscribe",
+    "forum_subscribe_pending": "Pending",
     "forum_unsubscribe": "Unsubscribe",
     "edit_profile": "Edit profile",
     "view_profile": "View profile",
