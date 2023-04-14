@@ -65,6 +65,7 @@
     "last_post_by": "<dfn>Last post </dfn>by",
     "action_edit": "Edit",
     "action_report": "Report",
+    "action_reply": "Reply",
     "return_to_forum": "Return to \"{}\"",
     "responding_to": "Responding to",
     "registration_title": "{} - Registration",
@@ -107,5 +108,7 @@
     "browser_default_language": "Browser default",
     "settings_updated": "Settings updated successfully",
     "report_created": "Report created",
-    "mod_log_title": "Moderation log"
+    "mod_log_title": "Moderation log",
+    "expand_view": "Expand view",
+    "topic_review_title": "Topic review"
 }
