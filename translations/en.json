@@ -106,5 +106,6 @@
     "registration_admin_approval": "Registration successful, wait for admin approval",
     "browser_default_language": "Browser default",
     "settings_updated": "Settings updated successfully",
-    "report_created": "Report created"
+    "report_created": "Report created",
+    "mod_log_title": "Moderation log"
 }
