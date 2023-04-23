@@ -60,5 +60,14 @@
     "send_private_message": "Lähetä yksityinen viesti",
     "topic_title": "Aihe:",
     "search_match_count": "{} täsmää haussa seuraaviin: ",
-    "searched_query": "Haettiin lausekkeella:"
+    "searched_query": "Haettiin lausekkeella:",
+    "replies_title": "Vastaukset:",
+    "new_topic": "Uusi aihe",
+    "last_post_by": "<dfn>Viimeisin viesti</dfn>tekijältä",
+    "action_edit": "Muokkaa",
+    "action_report": "Ilmianna",
+    "return_to_forum": "Palaa \"{}\"",
+    "responding_to": "Vastataan käyttäjälle",
+    "confirm_password": "Vahvista salasana:",
+    "registration_title": "{} - Rekisteröityminen"
 }
