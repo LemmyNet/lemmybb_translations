@@ -110,5 +110,8 @@
     "report_created": "Report created",
     "mod_log_title": "Moderation log",
     "expand_view": "Expand view",
-    "topic_review_title": "Topic review"
+    "topic_review_title": "Topic review",
+    "ban_user": "Ban user",
+    "ban_user_reason": "Reason",
+    "ban_user_remove_data": "Remove data"
 }
