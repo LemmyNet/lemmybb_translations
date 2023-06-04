@@ -101,5 +101,10 @@
     "legal": "Legal",
     "captcha_hint_2": "Digite o código exatamente como aparece. Não é considerado a diferença entre letras maiúsculas e minúsculas.",
     "joined": "Participando:",
-    "searched_query": "Resultado da pesquisa:"
+    "searched_query": "Resultado da pesquisa:",
+    "powered_by": "Funcionando com o Software de Fórum <a href=\"https://github.com/LemmyNet/lemmyBB\">lemmyBB</a> {}, Design por <a href=\"https://www.phpbb.com/\">phpBB",
+    "action_reply": "Responder",
+    "forum_subscribe_pending": "Pendente",
+    "mod_log_title": "Relatório de moderação",
+    "ban_user_reason": "Motivo"
 }
