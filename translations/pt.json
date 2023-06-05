@@ -1,1 +1,22 @@
-{}
+{
+    "current_time": "Atualmente, é {}",
+    "register": "Registrar",
+    "login": "Entrar",
+    "topic_review": "Revisão de tópico",
+    "previous_page": "Anterior",
+    "notifications_mark_all_as_read": "Marcar tudo como lido",
+    "private_messages": "Mensagens privadas",
+    "search": "Buscar",
+    "user_control_panel": "Painel de Controle do Usuário",
+    "user_profile": "Perfil",
+    "logout": "Sair",
+    "notifications": "Notificações",
+    "notifications_none": "Você não tem notificações",
+    "subject": "Assunto:",
+    "delete_cookies": "Apagar cookies",
+    "from": "De:",
+    "next_page": "Posterior",
+    "message": "Mensagem",
+    "last_reply": "Ultima Resposta: {}",
+    "send_pm_reply": "Responder"
+}
