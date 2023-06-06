@@ -68,5 +68,6 @@
     "compose_private_message": "Nachricht verfassen",
     "return_private_messages_overview": "Zur Übersicht der privaten Nachrichten zurückkehren",
     "total_posts": "Beiträge gesamt:",
-    "search_no_matches": "Keine passenden Ergebnisse gefunden."
+    "search_no_matches": "Keine passenden Ergebnisse gefunden.",
+    "required": "Erforderlich"
 }
