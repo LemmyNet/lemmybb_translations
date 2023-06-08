@@ -106,5 +106,7 @@
     "action_reply": "Responder",
     "forum_subscribe_pending": "Pendente",
     "mod_log_title": "Relatório de moderação",
-    "ban_user_reason": "Motivo"
+    "ban_user_reason": "Motivo",
+    "expand_view": "Expandir visualização",
+    "ban_user_remove_data": "Apagar dados"
 }
