@@ -1,1 +1,19 @@
-{}
+{
+    "login": "Giriş Yap",
+    "search": "Arama",
+    "user_profile": "Profil",
+    "logout": "Çıkış Yap",
+    "notifications_mark_all_as_read": "Hepsini okundu olarak işaretle",
+    "notifications_none": "Bildiriminiz yok",
+    "topic_review": "Başlık incelemesi",
+    "smilies": "Gülen yüzler",
+    "subject": "Konu:",
+    "board_index": "Pano dizini",
+    "legal": "Legal",
+    "register": "Kayıt Ol",
+    "user_control_panel": "Kullanıcı Kontrol Paneli",
+    "notifications": "Bildirimler",
+    "current_time": "Şu an {}",
+    "private_messages": "Özel mesajlar",
+    "delete_cookies": "Çerezleri sil"
+}
