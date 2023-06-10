@@ -107,5 +107,6 @@
     "ban_user": "Aseta käyttäjä porttikieltoon",
     "ban_user_reason": "Syy",
     "ban_user_remove_data": "Poista data",
-    "registration_confirm_email": "Rekisteröinti onnistui, vahvista sähköpostiosoitteesi"
+    "registration_confirm_email": "Rekisteröinti onnistui, vahvista sähköpostiosoitteesi",
+    "topic_review_title": "Aiheen arviointi"
 }
