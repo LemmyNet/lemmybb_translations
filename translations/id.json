@@ -92,5 +92,9 @@
     "captcha_hint": "Untuk mencegah pendaftaran otomatis, forum ini memerlukan kamu memasukkan kode konfirmasi. Kode ditampilkan di gambar yang kamu lihat di bawah ini. Jika kamu ada kelainan visual atau tidak bisa membaca kode ini, silakan hubungi admin forum.",
     "captcha_hint_2": "Ketikkan kode sama persis dengan apa yang muncul. Semua huruf sensitif kapital.",
     "user_control_panel": "Bilah Kontrol Pengguna",
-    "legal": "Legal"
+    "legal": "Legal",
+    "current_time": "Sekarang sedang {}",
+    "recipient": "Penerima",
+    "return_private_messages_overview": "Kembali ke tampilan pesan privat",
+    "listing_subscribed": "Berlangganan"
 }
