@@ -54,7 +54,7 @@
     "registration_title": "{} - Εγγραφή",
     "email_address": "Διεύθυνση ηλεκτρονικής δημοσίευσης:",
     "optional": "Προαιρετικό",
-    "required": "Υποχρεωτικό",
+    "required": "Απαιτείται",
     "password_length_hint": "Επιτρέπονται μόνο 10 έως 60 χαρακτήρες.",
     "show_adult_content": "Προβολή περιεχομένου για ενήλικες",
     "confirmation_of_registration_title": "Επιβεβαίωση της εγγραφής",
