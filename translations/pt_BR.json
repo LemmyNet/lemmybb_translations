@@ -1,6 +1,6 @@
 {
     "search": "Pesquisar",
-    "user_control_panel": "Painel de Controle de Usuárie",
+    "user_control_panel": "Painel de Controle de Usuário",
     "user_profile": "Perfil",
     "logout": "Sair",
     "notifications_mark_all_as_read": "Marcar tudo como lido",
@@ -33,7 +33,7 @@
     "form_cancel": "Cancelar",
     "post_topic": "Publicar um novo tópico",
     "register_info": "Você precisa se registrar para entrar com uma conta. O registro é feito em pouco tempo mas te garante mais capacidades.",
-    "username": "Nome da Conta:",
+    "username": "Nome de usuário:",
     "password": "Senha:",
     "total_posts": "Total de publicações:",
     "total_comments": "Total de comentários:",
@@ -60,7 +60,7 @@
     "confirmation_of_registration_title": "Confirmação de registro",
     "application_answer": "Resposta da solicitação:",
     "password_length_hint": "Deve ter entre 10 a 60 caracteres.",
-    "user_statistics": "Estatísticas de usuárie",
+    "user_statistics": "Estatísticas de usuário",
     "captcha_confirmation_code": "Código de confirmação:",
     "site_configuration_title": "Configuração de site",
     "site_name": "Nome:",
@@ -77,7 +77,7 @@
     "select_avatar": "Selecione o seu avatar",
     "current_image": "Imagem atual:",
     "delete_image": "Deletar imagem",
-    "upload_image": "Upload a partir do seu dispositivo:",
+    "upload_image": "Carregar do seu dispositivo:",
     "account_settings": "Configurações de conta",
     "new_password": "Nova senha",
     "confirm_password_hint": "Você só precisa confirmar a sua senha se você ela mudou acima.",
@@ -108,5 +108,10 @@
     "mod_log_title": "Relatório de moderação",
     "ban_user_reason": "Motivo",
     "expand_view": "Expandir visualização",
-    "ban_user_remove_data": "Apagar dados"
+    "ban_user_remove_data": "Apagar dados",
+    "topic_review": "Revisão de tópico",
+    "smilies": "Smilies",
+    "pm": "MP:",
+    "topic_review_title": "Revisão de tópico",
+    "ban_user": "Banir usuário"
 }
