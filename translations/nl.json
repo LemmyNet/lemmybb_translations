@@ -112,5 +112,6 @@
     "registration_admin_approval": "Registratie succesvol, wacht op goedkeuring door de beheerder",
     "settings_updated": "Instellingen succesvol bijgewerkt",
     "ban_user": "Ban gebruiker",
-    "ban_user_remove_data": "Gegevens verwijderen"
+    "ban_user_remove_data": "Gegevens verwijderen",
+    "topic_review_title": "Onderwerp-review"
 }
