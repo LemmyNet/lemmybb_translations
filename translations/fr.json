@@ -27,5 +27,15 @@
     "register": "Inscription",
     "subject": "Sujet :",
     "previous_page": "Précedent",
-    "report_post_title": "Signaler cette publication"
+    "report_post_title": "Signaler cette publication",
+    "topic_review": "Examen du sujet",
+    "smilies": "Smileys",
+    "return_private_messages_overview": "Retour à l'aperçu des messages privés",
+    "go_to_top": "Top",
+    "listing_subscribed": "Abonnés",
+    "report_post_info": "Utilisez ce formulaire pour signaler les messages aux modérateurs et administrateurs du forum. Un signalement ne doit généralement être utilisé que si le message enfreint les règles du forum.",
+    "username": "Nom d'utilisateur⸱rice",
+    "post_topic": "Publier un nouveau sujet",
+    "upload_image": "Téléverser depuis votre machine:",
+    "new_password": "Nouveau mot de passe"
 }
