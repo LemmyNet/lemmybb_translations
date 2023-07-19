@@ -57,5 +57,9 @@
     "ban_user": "Espelli utente",
     "current_password_hint": "Per cambiare la tua password, devi inserire la tua password attuale.",
     "registration_confirm_email": "Registrazione riuscita, conferma il tuo indirizzo email.",
-    "registration_admin_approval": "Registrazione riuscita, attendi l'approvazione di un amministratore"
+    "registration_admin_approval": "Registrazione riuscita, attendi l'approvazione di un amministratore",
+    "user_control_panel": "Pannello di controllo utente",
+    "current_time": "Al momento è {}",
+    "subject": "Soggetto:",
+    "topic_review": "Revisione dell'argomento"
 }
