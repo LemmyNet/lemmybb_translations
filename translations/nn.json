@@ -1,1 +1,7 @@
-{}
+{
+    "register": "Registrer",
+    "login": "Logg inn",
+    "search": "Søk",
+    "user_profile": "Profil",
+    "new_password": "Nytt passord"
+}
