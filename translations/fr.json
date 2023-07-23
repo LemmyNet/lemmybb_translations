@@ -37,5 +37,12 @@
     "username": "Nom d'utilisateur⸱rice",
     "post_topic": "Publier un nouveau sujet",
     "upload_image": "Téléverser depuis votre machine:",
-    "new_password": "Nouveau mot de passe"
+    "new_password": "Nouveau mot de passe",
+    "user_control_panel": "Espace Utilisateur",
+    "notifications_mark_all_as_read": "Tout marquer comme lu",
+    "notifications_none": "Vous n'avez pas de nouvelle notification",
+    "current_time": "Il est actuellement {}",
+    "private_messages": "Messages privés",
+    "powered_by": "Alimenter par <a href=\"https://github.com/LemmyNet/lemmyBB\">lemmyBB</a> Logiciel du forum designé par <a href=\"https://www.phpbb.com/\">phpBB",
+    "joined": "Rejoint :"
 }
