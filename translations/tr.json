@@ -1,6 +1,6 @@
 {
     "login": "Giriş Yap",
-    "search": "Arama",
+    "search": "Ara",
     "user_profile": "Profil",
     "logout": "Çıkış Yap",
     "notifications_mark_all_as_read": "Hepsini okundu olarak işaretle",
@@ -97,7 +97,7 @@
     "go_to_top": "Zirve",
     "view_latest_reply": "Son cevabı görüntüle",
     "report_post_info": "Seçilen gönderiyi forum moderatörlerine ve pano yöneticilerine bildirmek için bu formu kullanın. Raporlama genellikle yalnızca gönderi forum kurallarına aykırıysa kullanılmalıdır.",
-    "optional": "İsteğe Bağlı",
+    "optional": "Opsiyonel",
     "language": "Dil:",
     "signature": "İmza",
     "select_avatar": "Avatarını seç",
