@@ -1,1 +1,17 @@
-{}
+{
+    "login": "Log ind",
+    "search": "Søg",
+    "user_control_panel": "Bruger Kontrolpanel",
+    "logout": "Log ud",
+    "notifications": "Notifikationer",
+    "notifications_mark_all_as_read": "Marker alle som læst",
+    "current_time": "Den er nu {}",
+    "private_messages": "Private beskeder",
+    "topic_review_title": "Emne gennemgang",
+    "ban_user": "Suspender bruger",
+    "ban_user_reason": "Grund",
+    "ban_user_remove_data": "Fjern data",
+    "register": "Opret",
+    "user_profile": "Profil",
+    "notifications_none": "Du har ingen notifikationer"
+}
