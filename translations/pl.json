@@ -56,5 +56,7 @@
     "return_to_forum": "Powróć do \"{}\"",
     "confirm_password": "Potwierdź hasło:",
     "optional": "Opcjonalne",
-    "compose_private_message": "Utwórz wiadomość"
+    "compose_private_message": "Utwórz wiadomość",
+    "upload_image": "prześlij obraz",
+    "new_password": "Nowe hasło"
 }
