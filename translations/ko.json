@@ -1,1 +1,24 @@
-{}
+{
+    "login": "로그인",
+    "search": "검색",
+    "user_profile": "프로필",
+    "logout": "로그아웃",
+    "notifications_mark_all_as_read": "모두 읽음으로 표시",
+    "notifications_none": "새 알림이 없습니다",
+    "current_time": "현재 시각은 {}입니다",
+    "delete_cookies": "쿠키 삭제",
+    "recipient": "수신자",
+    "from": "발신자:",
+    "previous_page": "이전",
+    "next_page": "다음",
+    "message": "메시지",
+    "register": "가입",
+    "user_control_panel": "사용자 제어판",
+    "notifications": "알림",
+    "private_messages": "개인 메세지",
+    "joined": "가입일시:",
+    "compose_private_message": "메시지 작성",
+    "send_pm_reply": "답장 보내기",
+    "account_settings": "계정 설정",
+    "new_password": "새 비밀번호"
+}
