@@ -103,5 +103,6 @@
     "username_length_hint": "Longeco devas esti inter 3 signoj kaj 20 signoj.",
     "refresh_confirmation_code": "Aktualigi konfirman kodon",
     "upload_image": "Alŝuti el via maŝino.",
-    "current_password_hint": "Por ŝanĝi vian pasvorton, vi devas enigi vian nunan pasvorton."
+    "current_password_hint": "Por ŝanĝi vian pasvorton, vi devas enigi vian nunan pasvorton.",
+    "recipient": "Ricevanto"
 }
