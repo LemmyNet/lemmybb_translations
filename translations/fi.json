@@ -108,5 +108,10 @@
     "ban_user_reason": "Syy",
     "ban_user_remove_data": "Poista data",
     "registration_confirm_email": "Rekisteröinti onnistui, vahvista sähköpostiosoitteesi",
-    "topic_review_title": "Aiheen arviointi"
+    "topic_review_title": "Aiheen arviointi",
+    "edit_profile_info": "Ota huomioon, että tämä tieto voi näkyä muille käyttäjille. Ole varovainen kun kerrot jotain henkilökohtaisia tietoja.",
+    "search_no_matches": "Sopivia osumia ei löydetty.",
+    "forum_subscribe": "Tilaa",
+    "forum_unsubscribe": "Peru tilaus",
+    "displayname": "Näyttönimi:"
 }
