@@ -13,5 +13,6 @@
     "ban_user_remove_data": "Fjern data",
     "register": "Opret",
     "user_profile": "Profil",
-    "notifications_none": "Du har ingen notifikationer"
+    "notifications_none": "Du har ingen notifikationer",
+    "message": "Besked"
 }
