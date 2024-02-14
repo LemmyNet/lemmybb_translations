@@ -1,1 +1,8 @@
-{}
+{
+    "login": "ログイン",
+    "search": "検索",
+    "go_to_top": "トップ",
+    "listing_subscribed": "登録済み",
+    "register": "新規登録",
+    "legal": "利用規約等"
+}
