@@ -14,5 +14,8 @@
     "register": "Opret",
     "user_profile": "Profil",
     "notifications_none": "Du har ingen notifikationer",
-    "message": "Besked"
+    "message": "Besked",
+    "topic_review": "Emne gennemgang",
+    "smilies": "Smileys",
+    "subject": "Emne:"
 }
