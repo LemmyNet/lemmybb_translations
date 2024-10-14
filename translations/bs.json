@@ -1,1 +1,6 @@
-{}
+{
+    "login": "Prijava",
+    "logout": "Odjava",
+    "message": "Poruka",
+    "search": "Traži"
+}
