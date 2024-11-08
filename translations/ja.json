@@ -4,5 +4,11 @@
     "go_to_top": "トップ",
     "listing_subscribed": "登録済み",
     "register": "新規登録",
-    "legal": "利用規約等"
+    "legal": "利用規約等",
+    "user_control_panel": "ユーザーコントロールパネル",
+    "user_profile": "プロフィール",
+    "logout": "ログアウト",
+    "notifications": "通知",
+    "notifications_mark_all_as_read": "全てに既読をつける",
+    "notifications_none": "新規通知はありません"
 }
