@@ -14,5 +14,20 @@
     "register": "დარეგისტრირდი",
     "compose_private_message": "შეადგინეთ შეტყობინება",
     "notifications_mark_all_as_read": "მონიშნე ყველა როგორც წაკითხული",
-    "message": "წერილი"
+    "message": "წერილი",
+    "last_reply": "წინა პასუხი: {}",
+    "send_pm_reply": "გაგზავნე პასუხი",
+    "return_private_messages_overview": "პირადი წერილების მიმოხილვაზე გადასვლა",
+    "sent": "გაგზავნილია:",
+    "listing_subscribed": "გამოწერილი",
+    "listing_all": "ყველა",
+    "listing_local": "ადგილობრივი",
+    "header_communities_info": "თემები",
+    "header_topics_count": "საგანი",
+    "header_replies_count": "პასუხები",
+    "view_latest_reply": "ნახე ბოლო პასუხი",
+    "post_reply": "პოსტის პასუხი",
+    "report_post_title": "პოსტის რეპორტი",
+    "go_to_top": "მაღლა",
+    "header_last_reply": "ბოლო პასუხი"
 }
