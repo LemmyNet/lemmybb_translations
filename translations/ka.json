@@ -13,5 +13,6 @@
     "user_control_panel": "მომხმარებლის კაბინეტი",
     "register": "დარეგისტრირდი",
     "compose_private_message": "შეადგინეთ შეტყობინება",
-    "notifications_mark_all_as_read": "მონიშნე ყველა როგორც წაკითხული"
+    "notifications_mark_all_as_read": "მონიშნე ყველა როგორც წაკითხული",
+    "message": "წერილი"
 }
