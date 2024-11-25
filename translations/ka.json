@@ -1,1 +1,17 @@
-{}
+{
+    "login": "შესვლა",
+    "search": "ძიება",
+    "logout": "გასვლა",
+    "notifications": "შეტყობინებები",
+    "notifications_none": "არ არის შეტყობინებები",
+    "private_messages": "პირადი წერილები",
+    "smilies": "სმაილები",
+    "from": "ვისგან:",
+    "previous_page": "წინა",
+    "next_page": "შემდეგი",
+    "user_profile": "პროფილი",
+    "user_control_panel": "მომხმარებლის კაბინეტი",
+    "register": "დარეგისტრირდი",
+    "compose_private_message": "შეადგინეთ შეტყობინება",
+    "notifications_mark_all_as_read": "მონიშნე ყველა როგორც წაკითხული"
+}
