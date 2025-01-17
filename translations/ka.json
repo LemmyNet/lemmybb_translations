@@ -1,7 +1,7 @@
 {
     "login": "შესვლა",
-    "search": "ძიება",
-    "logout": "გასვლა",
+    "search": "ძებნა",
+    "logout": "გამოსვლა",
     "notifications": "შეტყობინებები",
     "notifications_none": "არ არის შეტყობინებები",
     "private_messages": "პირადი წერილები",
@@ -14,7 +14,7 @@
     "register": "დარეგისტრირდი",
     "compose_private_message": "შეადგინეთ შეტყობინება",
     "notifications_mark_all_as_read": "მონიშნე ყველა როგორც წაკითხული",
-    "message": "წერილი",
+    "message": "შეტყობინება",
     "last_reply": "წინა პასუხი: {}",
     "send_pm_reply": "გაგზავნე პასუხი",
     "return_private_messages_overview": "პირადი წერილების მიმოხილვაზე გადასვლა",
