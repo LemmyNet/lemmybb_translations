@@ -17,5 +17,16 @@
     "message": "Besked",
     "topic_review": "Emne gennemgang",
     "smilies": "Smileys",
-    "subject": "Emne:"
+    "subject": "Emne:",
+    "delete_cookies": "Slet cookies",
+    "recipient": "Modtager",
+    "from": "Fra:",
+    "compose_private_message": "Skriv besked",
+    "previous_page": "Forrige",
+    "next_page": "Næste",
+    "last_reply": "Sidste svar: {}",
+    "send_pm_reply": "Send svar",
+    "return_private_messages_overview": "Tilbage til oversigt over private beskeder",
+    "sent": "Sendt:",
+    "go_to_top": "Top"
 }
