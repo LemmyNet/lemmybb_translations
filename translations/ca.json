@@ -1,1 +1,15 @@
-{}
+{
+    "search": "Cercar",
+    "register": "Registrar",
+    "notifications_none": "No teniu cap notificació",
+    "login": "Entrar",
+    "user_control_panel": "Tauler de control d'usuari",
+    "user_profile": "Perfil",
+    "logout": "Tancar",
+    "notifications": "Notificacions",
+    "notifications_mark_all_as_read": "Marcar-ho tot com a llegit",
+    "current_time": "Ara són les {}",
+    "private_messages": "Missatges privats",
+    "topic_review": "Revisió de tema",
+    "smilies": "Smilies"
+}
