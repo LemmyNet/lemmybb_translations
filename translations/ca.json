@@ -102,5 +102,16 @@
     "new_password": "Contrasenya nova",
     "confirm_password_hint": "Només heu de confirmar la vostra contrasenya si l'heu canviada més amunt.",
     "captcha_hint": "Per evitar registres automatitzats el fòrum requereix que introduïu un codi de confirmació. El codi es mostra a la imatge que hauríeu de veure a continuació. Si teniu discapacitat visual o no podeu llegir aquest codi, poseu-vos en contacte amb l'administració del fòrum.",
-    "account_settings": "Configuració del compte"
+    "account_settings": "Configuració del compte",
+    "registration_confirm_email": "El registre ha estat correcte, confirmeu la vostra adreça electrònica",
+    "registration_admin_approval": "El registre ha estat correcte, espereu l'aprovació de l'administració",
+    "browser_default_language": "Predeterminació de navegador",
+    "settings_updated": "La configuració s'ha actualitzat correctament",
+    "report_created": "Denúncia creada",
+    "mod_log_title": "Registre de moderació",
+    "expand_view": "Ampliar la vista",
+    "topic_review_title": "Revisió del tema",
+    "ban_user": "Bandejar compte",
+    "ban_user_reason": "Motiu",
+    "ban_user_remove_data": "Eliminar dades"
 }
