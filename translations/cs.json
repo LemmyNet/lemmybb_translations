@@ -1,1 +1,11 @@
-{}
+{
+    "register": "Zaregistrovat se",
+    "login": "Přihlásit se",
+    "search": "Hledat",
+    "logout": "Odhlásit se",
+    "notifications": "Oznámení",
+    "notifications_mark_all_as_read": "Označit vše za přečtené",
+    "next_page": "Další",
+    "listing_all": "Vše",
+    "previous_page": "Předchozí"
+}
